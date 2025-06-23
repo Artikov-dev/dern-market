@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nomi": "Smartfonlar",
+    "tavsif": "Eng so'nggi smartfonlar va mobil qurilmalar",
+    "icon": "📱",
+    "rang": "bg-blue-500",
+    "faol": true,
+    "chegirma": 5
+  },
+  {
+    "id": 2,
+    "nomi": "Noutbuklar",
+    "tavsif": "Professional va gaming noutbuklar",
+    "icon": "💻",
+    "rang": "bg-green-500",
+    "faol": true,
+    "chegirma": 10
+  },
+  {
+    "id": 3,
+    "nomi": "Audio",
+    "tavsif": "Quloqchinlar, karnaylar va audio qurilmalar",
+    "icon": "🎧",
+    "rang": "bg-purple-500",
+    "faol": true,
+    "chegirma": 15
+  },
+  {
+    "id": 4,
+    "nomi": "Planshetlar",
+    "tavsif": "iPad va Android planshetlar",
+    "icon": "📱",
+    "rang": "bg-orange-500",
+    "faol": true,
+    "chegirma": 8
+  },
+  {
+    "id": 5,
+    "nomi": "Monitorlar",
+    "tavsif": "Gaming va professional monitorlar",
+    "icon": "🖥️",
+    "rang": "bg-red-500",
+    "faol": true,
+    "chegirma": 12
+  },
+  {
+    "id": 6,
+    "nomi": "Aksessuarlar",
+    "tavsif": "Telefon g'iloflari, zaryadlovchilar va boshqalar",
+    "icon": "🔌",
+    "rang": "bg-pink-500",
+    "faol": true,
+    "chegirma": 20
+  }
+]
