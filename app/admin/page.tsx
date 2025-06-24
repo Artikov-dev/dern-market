@@ -198,7 +198,7 @@ export default function AdminPage() {
       nomi: mahsulotFormData.nomi,
       tavsif: mahsulotFormData.tavsif,
       narx: Number(mahsulotFormData.narx),
-      rasm: mahsulotFormData.rasm || "/placeholder.svg?height=300&width=300",
+      rasm: mahsulotFormData.rasm || "/15pro.png?height=300&width=300",
       kategoriya: mahsulotFormData.kategoriya,
       zaxira: Number(mahsulotFormData.zaxira),
       yangi: mahsulotFormData.yangi,
@@ -569,7 +569,7 @@ export default function AdminPage() {
                           id="mahsulot-rasm"
                           value={mahsulotFormData.rasm}
                           onChange={(e) => setMahsulotFormData({ ...mahsulotFormData, rasm: e.target.value })}
-                          placeholder="/placeholder.svg?height=300&width=300"
+                          placeholder="/15pro.png?height=300&width=300"
                         />
                       </div>
                     </div>

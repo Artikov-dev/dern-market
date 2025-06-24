@@ -4,7 +4,7 @@
     "nomi": "iPhone 15 Pro Max 256GB",
     "tavsif": "Apple A17 Pro chipi, 6.7″ Super Retina XDR displey, 48MP kamera tizimi",
     "narx": 17500000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+    "rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Smartfonlar",
     "zaxira": 12,
     "yangi": true
@@ -14,7 +14,7 @@
     "nomi": "Samsung Galaxy S24 Ultra 512GB",
     "tavsif": "Snapdragon 8 Gen 3, 200MP kamera, 6.8″ Dynamic AMOLED 2X",
     "narx": 16200000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+"rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Smartfonlar",
     "zaxira": 8,
     "yangi": true
@@ -24,7 +24,7 @@
     "nomi": "Xiaomi 14 Pro 256GB",
     "tavsif": "Snapdragon 8 Gen 3, Leica kameralar, 6.73″ LTPO OLED",
     "narx": 9800000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+"rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Smartfonlar",
     "zaxira": 15,
     "yangi": false
@@ -34,7 +34,7 @@
     "nomi": "MacBook Pro 14″ M3 Pro 512GB",
     "tavsif": "Apple M3 Pro chip, 14″ Liquid Retina XDR, 18 soat batareya",
     "narx": 28500000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+   "rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Noutbuklar",
     "zaxira": 6,
     "yangi": true
@@ -44,7 +44,7 @@
     "nomi": "ASUS ROG Strix G16 Gaming",
     "tavsif": "Intel i9-13980HX, RTX 4070, 16″ 165Hz displey",
     "narx": 24500000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+    "rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Noutbuklar",
     "zaxira": 4,
     "yangi": false
@@ -54,7 +54,7 @@
     "nomi": "Dell XPS 13 Plus",
     "tavsif": "Intel i7-1360P, 13.4″ OLED touch, premium dizayn",
     "narx": 18900000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+ "rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Noutbuklar",
     "zaxira": 7,
     "yangi": false
@@ -64,7 +64,7 @@
     "nomi": "Sony WH-1000XM5",
     "tavsif": "Premium noise canceling, 30 soat quvvat, Hi-Res Audio",
     "narx": 3800000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+  "rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Audio",
     "zaxira": 20,
     "yangi": false
@@ -74,7 +74,7 @@
     "nomi": "AirPods Pro 2nd Gen",
     "tavsif": "H2 chip, Adaptive Transparency, MagSafe charging",
     "narx": 2900000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+"rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Audio",
     "zaxira": 25,
     "yangi": true
@@ -84,7 +84,7 @@
     "nomi": "iPad Pro 12.9″ M2 256GB",
     "tavsif": "Apple M2 chip, Liquid Retina XDR, Apple Pencil 2 support",
     "narx": 14500000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+   "rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Planshetlar",
     "zaxira": 10,
     "yangi": true
@@ -94,7 +94,7 @@
     "nomi": "Samsung Galaxy Tab S9 Ultra",
     "tavsif": "Snapdragon 8 Gen 2, 14.6″ AMOLED, S Pen included",
     "narx": 12800000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+   "rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Planshetlar",
     "zaxira": 8,
     "yangi": false
@@ -104,7 +104,7 @@
     "nomi": "LG UltraGear 27″ OLED Gaming",
     "tavsif": "27″ QHD OLED, 240Hz, 0.03ms, G-SYNC Compatible",
     "narx": 8700000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+ "rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Monitorlar",
     "zaxira": 5,
     "yangi": false
@@ -114,7 +114,7 @@
     "nomi": "Samsung Odyssey G9 49″",
     "tavsif": "49″ Dual QHD, 240Hz, 1000R curve, HDR1000",
     "narx": 15600000,
-    "rasm": "/placeholder.svg?height=300&width=300",
+   "rasm": "/15pro.png?height=300&width=300",
     "kategoriya": "Monitorlar",
     "zaxira": 3,
     "yangi": true

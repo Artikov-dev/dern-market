@@ -96,7 +96,7 @@ export function MahsulotKartasi({ mahsulot, onLoginRequired }: MahsulotKartasiPr
       <CardHeader className="p-0 relative overflow-hidden">
         <div className="relative">
           <Image
-            src={mahsulot.rasm || "/placeholder.svg"}
+            src={mahsulot.rasm || "/15pro.png"}
             alt={mahsulot.nomi}
             width={300}
             height={300}
